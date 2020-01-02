@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="beIN Sports ARB" tvg-name="beIN Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",beIN Sports HD
+http://95.170.215.120/hls/m3u8/Bein-Sport-HD-IMH-NGC.m3u8
+#EXTINF:-1 tvg-id="beIN Sports 1 ARB" tvg-name="beIN Sports 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cqdjHHR.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",beIN Sports HD 1
+http://95.170.215.101/hls/m3u8/Bein-Sport-HD1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="" group-title="Sport",Al Kass Five
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass5
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Al Kass One
+https://alkasmsl4.akamaized.net/hls/live/2003123/alkassone1/master570.m3u8
+#EXTINF:-1 tvg-id="Al Kass Two ARB" tvg-name="Al Kass Two ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/o90fKsH.png" tvg-country="QA" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Sport",Al Kass Two
+http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://is2-ssl.mzstatic.com/image/thumb/Purple128/v4/6c/a2/56/6ca256b1-58a8-782c-7057-984a820945df/source/512x512bb.jpg" tvg-country="SA" tvg-url="" group-title="",Al Quran Al Kareem (Mecca)
+http://210.210.155.35/qwr9ew/s/s28/01.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.sba.sa/assets/uploads/2018/04/Image-87@2x.png" tvg-country="SA" tvg-url="" group-title="",Al Quran Al Kareem (Mecca)
+http://livecdnh2.tvanywhere.ae/hls/quran/04.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Iraqiya
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac.m3u8
+#EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-language="Arabic" tvg-logo="http://alsharqiyatv.info/tv.jpg" tvg-country="IQ" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="General",Al Sharqiya
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-url="" group-title="News",Al Sharqiya News
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
+http://live2.alalam.ir/live/Alalam_high/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al-Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-country="UK" tvg-url="" group-title="",Al-Hiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/chunklist.m3u8?v=1771904733&__mn_sid=13380223219124813958
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ooiJwD5.png" tvg-country="UK" tvg-url="" group-title="",Al-Hiwar
+http://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8
+#EXTINF:-1,AR: BBC NEWS   local
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/11247
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/A9SIuRz.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="News",Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/chunklist_b1400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HocMyE.jpg" tvg-country="EG" tvg-url="" group-title="",Al Hayat
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
+#EXTINF:-1,MBCHD1
+http://iptv6.premium-stv.com:25461/sourcemyhdpro1/4690746424/1621
+#EXTINF:-1 tvg-id="MBC 2 ARB" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Movies",MBC 2 HD
+http://livecdnh3.tvanywhere.ae/hls/mbc2/03.m3u8
+#EXTINF:-1,AR. MBC 3
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23472
+#EXTINF:-1,AR. MBC 4
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23473
+#EXTINF:-1,AR. MBC Action
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23474
+#EXTINF:-1,AR. MBC Max
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23476
+#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="Entertainment",MBC Bollywood
+http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/02.m3u8?sd=10&rebase=on
+#EXTINF:-1,AR. MBC Bollywood
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23477
+#EXTINF:-1,AR. MBC Drama
+http://fullhdp.servep2p.com:3500/gokhan.c/olsd302-gokhanc/23475
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="AE" tvg-url="http://195.154.221.171/epg/guidearab.xml.gz" group-title="",MBC Masr
+http://livecdnh2.tvanywhere.ae/hls/mbc_msr/02.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv_ethra_95x94.gif" tvg-country="KW" tvg-url="" group-title="",KTV Ethraa
+https://svs.itworkscdn.net/ktvethraalive/smil:kethraa.smil/chunklist_b2400000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://i5.satexpat.com/cha/kw/ktv-kids-95x77.gif" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
+https://svs.itworkscdn.net/ktvsportspluslive/ksportsplus.smil/gmswf.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="KW" tvg-url="" group-title="Kids",KTV Kids
+https://svs.itworkscdn.net/ktvsportspluslive/smil:ksportsplus.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="http://www.1arablive.com/livetv/assets/images/1536610958.png" tvg-country="KW" tvg-url="" group-title="",KTV Plus
+http://www.elahmad.com/tv/m3u8/ktv.m3u8?id=ktv8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="KW" tvg-url="" group-title="",KTV Plus
+https://svs.itworkscdn.net/ktvpluslive/kplus.smil/playlist.m3u8
